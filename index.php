@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Hello World Git !</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum est corrupti sequi aliquam suscipit dolores esse atque enim! Enim, libero. Hic soluta cum dolore error vel ducimus beatae, atque nam.</p>
 </body>
 </html>
